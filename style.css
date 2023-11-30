@@ -1,0 +1,47 @@
+.edo{
+    border:  solid #d0d8fc;
+    background-color: #d0d8fc;
+    margin: 30px;
+    text-align: center;
+}
+.smart{
+    font-size: 44px;
+    font-family: sans-serif;
+    margin: 30px;
+    margin-top: 20px;
+    color: #1b1642;
+    font-weight: 40px;
+
+}
+.bat{
+    background-color: whitesmoke;
+}
+.break{
+    font-size: 24px;
+    font-family: sans-serif;
+    margin: 30px;
+    margin-top: 20px;
+}
+.ground{
+    background-color: whitesmoke;
+}
+.trans{
+    transform: translate(500px ,-500px);
+}
+.but{
+    background-color: #0e0a47;
+    color: whitesmoke;
+}
+
+.bot{
+    
+    color: whitesmoke;
+    text-align: center;
+}
+.game{
+    text-align: center;
+    padding-bottom: 50px;
+    transform: translatey(200px);
+}
+
+
