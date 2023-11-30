@@ -13,6 +13,10 @@
     font-weight: 40px;
 
 }
+
+.container{
+    padding-bottom: -200px;
+}
 .bat{
     background-color: whitesmoke;
 }
@@ -26,7 +30,7 @@
     background-color: whitesmoke;
 }
 .trans{
-    transform: translate(500px ,-500px);
+    /* transform: translate(-600px ,-100px); */
 }
 .but{
     background-color: #0e0a47;
@@ -40,8 +44,12 @@
 }
 .game{
     text-align: center;
-    padding-bottom: 50px;
-    transform: translatey(200px);
+    padding-bottom: 300px;
+    transform: translatey(500px);
+}
+.load{
+    background-color: #0e0a47;
+    color: whitesmoke;
 }
 
 
